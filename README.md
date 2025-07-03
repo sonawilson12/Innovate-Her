@@ -7,7 +7,7 @@
 
 ### Team Members
 - Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 2: [Sona] - [College]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
